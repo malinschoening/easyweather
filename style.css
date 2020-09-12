@@ -1,0 +1,23 @@
+body {
+     font-family: raleway;
+}
+
+.submit_city {
+    padding: 30px;
+    margin: auto;
+    width: 30%;
+}
+
+.information {
+   margin: auto; 
+   padding: 30px;
+    width: 30%;
+}
+
+input {
+ font-family: raleway;
+}
+
+button {
+    font-family: raleway;
+}
